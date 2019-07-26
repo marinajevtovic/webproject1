@@ -8,6 +8,6 @@ with phpmyadmin:
 2. Go into the browser, type localhost, then go phpmyadmin
 3. New(give name proba)-create
 4. Import(choose file proba.sql from folder project2).
-5. Afer that copy folder project2 to xampp/htcdoc(in Local Disk(C)), 
+5. Afer that copy folder project2 to xampp/htdocs(in Local Disk(C)), 
 6. Then in browser type localhost/project2 
 and site will be visiable and ready to use

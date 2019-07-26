@@ -1,0 +1,9 @@
+Stranica za registraciju ilustruje upis korisnika u bazu, I vrsi se validacija podataka uz pomoc JQ
+Straniza Log In sluzi za prijavljivanje korisnika koji vec postoji u bazi da bismo otvorili sesiju
+Na stranici Destinacija uz pomoc sesije bice moguce da se vidi detaljnije o navedenim destinacijama ako je korisnik ulogovan tj.
+ Ako je otvorena sesija I ukoliko u globalnoj promenljivoj postoji upisan username korisnika.
+ Navela sam I pri samom ulasku na stranicu da se vrati na destinacije ukoliko korisnik nije prijavljen(nepotrebno ali to sam prvo uradila pa je ostalo,
+ posle mi se vise svidelo sa se prikaze link kada je korisnik prijavljen)
+Stranica Galerija ilustruje slajd sou uz pomoc JQ.
+Stranica Odjava sluzi za prekidanje sesije I brisanje svega sto se nalazi u $_SESSION promenljivoj.
+Stranice Barselona, Valensija I Firenca ilustruju ispis iz baze. Iz baze sun a stranicu ispisani opis I broj posetilaca.

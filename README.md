@@ -2,7 +2,7 @@
 In this project you can see a web app in wich you can log in, log out, registration, change the things on the site, read from database, 
 writing to database, printing data from a database chacking database for the users. 
 Contains JS validation, PHP validation, JS slideshow
-You need to install XAMPP and import sql database proba.sql from folder project2
+You need to install XAMPP, download project2, and import sql database proba.sql from folder project2
 with phpmyadmin:
 1. Start XAMPP(apache-start MySql-start),
 2. Go into the browser, type localhost, then go phpmyadmin
